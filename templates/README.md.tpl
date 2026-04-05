@@ -16,8 +16,9 @@ CKA & CKS certified · Conference speaker · Open source contributor
 
 #### 📝 Latest Blog Posts
 
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+{{range rss "https://suraj.io/index.xml" 5}}
+- [{{.Title}}]({{.URL}})
+{{- end}}
 
 </td>
 <td width="50%" valign="top">
