@@ -42,8 +42,8 @@ CKA & CKS certified · Conference speaker · Open source contributor
 #### 🔀 Recent Pull Requests
 
 
-- [fix(gpu): add systemd ordering to prevent MIG device detection race](https://github.com/Azure/AgentBaker/pull/8247) on [Azure/AgentBaker](https://github.com/Azure/AgentBaker) — *3 days ago*
+- [feat(api)!: restructure ProviderCapabilities to per-engine capability mapping](https://github.com/kaito-project/airunway/pull/214) on [kaito-project/airunway](https://github.com/kaito-project/airunway) — *1 day ago*
+- [fix(renovate): enable Renovate version tracking for DCGM AzureLinux 3.0](https://github.com/Azure/AgentBaker/pull/8276) on [Azure/AgentBaker](https://github.com/Azure/AgentBaker) — *1 day ago*
+- [fix(gpu): add systemd ordering to prevent MIG device detection race](https://github.com/Azure/AgentBaker/pull/8247) on [Azure/AgentBaker](https://github.com/Azure/AgentBaker) — *4 days ago*
 - [fix(cse): resolve error code collisions and add missing definition](https://github.com/Azure/AgentBaker/pull/8241) on [Azure/AgentBaker](https://github.com/Azure/AgentBaker) — *1 week ago*
 - [feat(infiniband): add DOCA OFED support for Ubuntu 22.04 and 24.04](https://github.com/Azure/AgentBaker/pull/8240) on [Azure/AgentBaker](https://github.com/Azure/AgentBaker) — *1 week ago*
-- [fix(e2e): retry VMSS creation on `GalleryImageNotFound` error](https://github.com/Azure/AgentBaker/pull/8239) on [Azure/AgentBaker](https://github.com/Azure/AgentBaker) — *1 week ago*
-- [fix(e2e): replace watch with polling in `WaitUntilNodeReady` to fix flaky node detection](https://github.com/Azure/AgentBaker/pull/8226) on [Azure/AgentBaker](https://github.com/Azure/AgentBaker) — *1 week ago*
