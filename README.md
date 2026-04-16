@@ -29,7 +29,7 @@ CKA & CKS certified · Conference speaker · Open source contributor
 #### 🔨 Recent Contributions
 
 
-- [surajssd/dotfiles](https://github.com/surajssd/dotfiles) — *2 days ago*
+- [surajssd/dotfiles](https://github.com/surajssd/dotfiles) — *3 days ago*
 - [surajssd/llm-k8s](https://github.com/surajssd/llm-k8s) — *1 week ago*
 - [surajssd/libnotion](https://github.com/surajssd/libnotion) — *2 weeks ago*
 - [kaito-project/airunway](https://github.com/kaito-project/airunway) — *1 month ago*
@@ -42,8 +42,8 @@ CKA & CKS certified · Conference speaker · Open source contributor
 #### 🔀 Recent Pull Requests
 
 
-- [feat(api)!: restructure ProviderCapabilities to per-engine capability mapping](https://github.com/kaito-project/airunway/pull/214) on [kaito-project/airunway](https://github.com/kaito-project/airunway) — *5 days ago*
-- [fix(renovate): enable Renovate version tracking for DCGM AzureLinux 3.0](https://github.com/Azure/AgentBaker/pull/8276) on [Azure/AgentBaker](https://github.com/Azure/AgentBaker) — *5 days ago*
+- [feat(api)!: restructure ProviderCapabilities to per-engine capability mapping](https://github.com/kaito-project/airunway/pull/214) on [kaito-project/airunway](https://github.com/kaito-project/airunway) — *6 days ago*
+- [fix(renovate): enable Renovate version tracking for DCGM AzureLinux 3.0](https://github.com/Azure/AgentBaker/pull/8276) on [Azure/AgentBaker](https://github.com/Azure/AgentBaker) — *6 days ago*
 - [fix(gpu): add systemd ordering to prevent MIG device detection race](https://github.com/Azure/AgentBaker/pull/8247) on [Azure/AgentBaker](https://github.com/Azure/AgentBaker) — *1 week ago*
 - [fix(cse): resolve error code collisions and add missing definition](https://github.com/Azure/AgentBaker/pull/8241) on [Azure/AgentBaker](https://github.com/Azure/AgentBaker) — *1 week ago*
 - [feat(infiniband): add DOCA OFED support for Ubuntu 22.04 and 24.04](https://github.com/Azure/AgentBaker/pull/8240) on [Azure/AgentBaker](https://github.com/Azure/AgentBaker) — *1 week ago*
