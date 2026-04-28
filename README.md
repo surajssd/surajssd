@@ -29,10 +29,10 @@ CKA & CKS certified · Conference speaker · Open source contributor
 #### 🔨 Recent Contributions
 
 
-- [surajssd/llm-k8s](https://github.com/surajssd/llm-k8s) — *3 days ago*
-- [surajssd/dotfiles](https://github.com/surajssd/dotfiles) — *3 days ago*
-- [surajssd/azure-capacity-finder](https://github.com/surajssd/azure-capacity-finder) — *4 days ago*
-- [surajssd/libnotion](https://github.com/surajssd/libnotion) — *4 weeks ago*
+- [surajssd/llm-k8s](https://github.com/surajssd/llm-k8s) — *1 day ago*
+- [surajssd/dotfiles](https://github.com/surajssd/dotfiles) — *4 days ago*
+- [surajssd/azure-capacity-finder](https://github.com/surajssd/azure-capacity-finder) — *5 days ago*
+- [surajssd/libnotion](https://github.com/surajssd/libnotion) — *1 month ago*
 - [kaito-project/airunway](https://github.com/kaito-project/airunway) — *1 month ago*
 
 </td>
@@ -42,8 +42,8 @@ CKA & CKS certified · Conference speaker · Open source contributor
 #### 🔀 Recent Pull Requests
 
 
-- [feat(dynamo): add `setup-dynamo` and `cleanup-dynamo` Makefile targets](https://github.com/kaito-project/airunway/pull/240) on [kaito-project/airunway](https://github.com/kaito-project/airunway) — *3 days ago*
-- [test(ci): add `dcgm-exporter` compatibility unit test to `validate-components` workflow](https://github.com/Azure/AgentBaker/pull/8368) on [Azure/AgentBaker](https://github.com/Azure/AgentBaker) — *6 days ago*
+- [feat(dynamo): add `setup-dynamo` and `cleanup-dynamo` Makefile targets](https://github.com/kaito-project/airunway/pull/240) on [kaito-project/airunway](https://github.com/kaito-project/airunway) — *4 days ago*
+- [test(ci): add `dcgm-exporter` compatibility unit test to `validate-components` workflow](https://github.com/Azure/AgentBaker/pull/8368) on [Azure/AgentBaker](https://github.com/Azure/AgentBaker) — *1 week ago*
 - [feat(api)!: restructure ProviderCapabilities to per-engine capability mapping](https://github.com/kaito-project/airunway/pull/214) on [kaito-project/airunway](https://github.com/kaito-project/airunway) — *2 weeks ago*
 - [fix(renovate): enable Renovate version tracking for DCGM AzureLinux 3.0](https://github.com/Azure/AgentBaker/pull/8276) on [Azure/AgentBaker](https://github.com/Azure/AgentBaker) — *2 weeks ago*
-- [fix(gpu): add systemd ordering to prevent MIG device detection race](https://github.com/Azure/AgentBaker/pull/8247) on [Azure/AgentBaker](https://github.com/Azure/AgentBaker) — *2 weeks ago*
+- [fix(gpu): add systemd ordering to prevent MIG device detection race](https://github.com/Azure/AgentBaker/pull/8247) on [Azure/AgentBaker](https://github.com/Azure/AgentBaker) — *3 weeks ago*
