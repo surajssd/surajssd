@@ -43,7 +43,7 @@ CKA & CKS certified · Conference speaker · Open source contributor
 
 
 - [chore(deps): bump `dcgm-exporter` to build v6](https://github.com/Azure/AgentBaker/pull/8417) on [Azure/AgentBaker](https://github.com/Azure/AgentBaker) — *1 week ago*
-- [feat(dynamo): add `setup-dynamo` and `cleanup-dynamo` Makefile targets](https://github.com/kaito-project/airunway/pull/240) on [kaito-project/airunway](https://github.com/kaito-project/airunway) — *1 week ago*
+- [feat(dynamo): add `setup-dynamo` and `cleanup-dynamo` Makefile targets](https://github.com/kaito-project/airunway/pull/240) on [kaito-project/airunway](https://github.com/kaito-project/airunway) — *2 weeks ago*
 - [test(ci): add `dcgm-exporter` compatibility unit test to `validate-components` workflow](https://github.com/Azure/AgentBaker/pull/8368) on [Azure/AgentBaker](https://github.com/Azure/AgentBaker) — *2 weeks ago*
-- [feat(api)!: restructure ProviderCapabilities to per-engine capability mapping](https://github.com/kaito-project/airunway/pull/214) on [kaito-project/airunway](https://github.com/kaito-project/airunway) — *3 weeks ago*
-- [fix(renovate): enable Renovate version tracking for DCGM AzureLinux 3.0](https://github.com/Azure/AgentBaker/pull/8276) on [Azure/AgentBaker](https://github.com/Azure/AgentBaker) — *3 weeks ago*
+- [feat(api)!: restructure ProviderCapabilities to per-engine capability mapping](https://github.com/kaito-project/airunway/pull/214) on [kaito-project/airunway](https://github.com/kaito-project/airunway) — *4 weeks ago*
+- [fix(renovate): enable Renovate version tracking for DCGM AzureLinux 3.0](https://github.com/Azure/AgentBaker/pull/8276) on [Azure/AgentBaker](https://github.com/Azure/AgentBaker) — *4 weeks ago*
