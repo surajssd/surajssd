@@ -29,9 +29,9 @@ CKA & CKS certified · Conference speaker · Open source contributor
 #### 🔨 Recent Contributions
 
 
-- [surajssd/dotfiles](https://github.com/surajssd/dotfiles) — *1 day ago*
-- [kaito-project/airunway](https://github.com/kaito-project/airunway) — *2 days ago*
-- [surajssd/llm-k8s](https://github.com/surajssd/llm-k8s) — *2 days ago*
+- [surajssd/dotfiles](https://github.com/surajssd/dotfiles) — *2 days ago*
+- [kaito-project/airunway](https://github.com/kaito-project/airunway) — *3 days ago*
+- [surajssd/llm-k8s](https://github.com/surajssd/llm-k8s) — *3 days ago*
 - [surajssd/azure-capacity-finder](https://github.com/surajssd/azure-capacity-finder) — *3 weeks ago*
 - [surajssd/libnotion](https://github.com/surajssd/libnotion) — *1 month ago*
 
@@ -42,8 +42,8 @@ CKA & CKS certified · Conference speaker · Open source contributor
 #### 🔀 Recent Pull Requests
 
 
-- [chore(dynamo): upgrade Dynamo platform to `1.1.1`](https://github.com/kaito-project/airunway/pull/281) on [kaito-project/airunway](https://github.com/kaito-project/airunway) — *1 day ago*
-- [chore(dynamo): bump Dynamo to `1.1.1` and install GAIE `v1.5.0`](https://github.com/kaito-project/airunway/pull/280) on [kaito-project/airunway](https://github.com/kaito-project/airunway) — *2 days ago*
+- [chore(dynamo): upgrade Dynamo platform to `1.1.1`](https://github.com/kaito-project/airunway/pull/281) on [kaito-project/airunway](https://github.com/kaito-project/airunway) — *2 days ago*
+- [chore(dynamo): bump Dynamo to `1.1.1` and install GAIE `v1.5.0`](https://github.com/kaito-project/airunway/pull/280) on [kaito-project/airunway](https://github.com/kaito-project/airunway) — *3 days ago*
 - [chore(deps): bump `dcgm-exporter` to build v6](https://github.com/Azure/AgentBaker/pull/8417) on [Azure/AgentBaker](https://github.com/Azure/AgentBaker) — *2 weeks ago*
 - [feat(dynamo): add `setup-dynamo` and `cleanup-dynamo` Makefile targets](https://github.com/kaito-project/airunway/pull/240) on [kaito-project/airunway](https://github.com/kaito-project/airunway) — *3 weeks ago*
 - [test(ci): add `dcgm-exporter` compatibility unit test to `validate-components` workflow](https://github.com/Azure/AgentBaker/pull/8368) on [Azure/AgentBaker](https://github.com/Azure/AgentBaker) — *3 weeks ago*
