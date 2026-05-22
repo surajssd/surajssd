@@ -29,7 +29,7 @@ CKA & CKS certified · Conference speaker · Open source contributor
 #### 🔨 Recent Contributions
 
 
-- [surajssd/dotfiles](https://github.com/surajssd/dotfiles) — *2 days ago*
+- [surajssd/dotfiles](https://github.com/surajssd/dotfiles) — *3 days ago*
 - [kaito-project/airunway](https://github.com/kaito-project/airunway) — *1 week ago*
 - [surajssd/llm-k8s](https://github.com/surajssd/llm-k8s) — *1 week ago*
 - [surajssd/azure-capacity-finder](https://github.com/surajssd/azure-capacity-finder) — *4 weeks ago*
@@ -42,8 +42,8 @@ CKA & CKS certified · Conference speaker · Open source contributor
 #### 🔀 Recent Pull Requests
 
 
-- [refactor: Centralize upstream versions](https://github.com/kaito-project/airunway/pull/281) on [kaito-project/airunway](https://github.com/kaito-project/airunway) — *6 days ago*
+- [refactor: Centralize upstream versions](https://github.com/kaito-project/airunway/pull/281) on [kaito-project/airunway](https://github.com/kaito-project/airunway) — *1 week ago*
 - [chore(dynamo): bump Dynamo to `1.1.1` and install GAIE `v1.5.0`](https://github.com/kaito-project/airunway/pull/280) on [kaito-project/airunway](https://github.com/kaito-project/airunway) — *1 week ago*
 - [chore(deps): bump `dcgm-exporter` to build v6](https://github.com/Azure/AgentBaker/pull/8417) on [Azure/AgentBaker](https://github.com/Azure/AgentBaker) — *3 weeks ago*
-- [feat(dynamo): add `setup-dynamo` and `cleanup-dynamo` Makefile targets](https://github.com/kaito-project/airunway/pull/240) on [kaito-project/airunway](https://github.com/kaito-project/airunway) — *3 weeks ago*
+- [feat(dynamo): add `setup-dynamo` and `cleanup-dynamo` Makefile targets](https://github.com/kaito-project/airunway/pull/240) on [kaito-project/airunway](https://github.com/kaito-project/airunway) — *4 weeks ago*
 - [test(ci): add `dcgm-exporter` compatibility unit test to `validate-components` workflow](https://github.com/Azure/AgentBaker/pull/8368) on [Azure/AgentBaker](https://github.com/Azure/AgentBaker) — *1 month ago*
