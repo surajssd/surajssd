@@ -29,11 +29,11 @@ CKA & CKS certified · Conference speaker · Open source contributor
 #### 🔨 Recent Contributions
 
 
-- [surajssd/dotfiles](https://github.com/surajssd/dotfiles) — *3 days ago*
-- [kaito-project/airunway](https://github.com/kaito-project/airunway) — *1 week ago*
+- [surajssd/blog_contents](https://github.com/surajssd/blog_contents) — *1 day ago*
+- [surajssd/surajssd.github.io](https://github.com/surajssd/surajssd.github.io) — *1 day ago*
+- [surajssd/dotfiles](https://github.com/surajssd/dotfiles) — *4 days ago*
 - [surajssd/llm-k8s](https://github.com/surajssd/llm-k8s) — *1 week ago*
-- [surajssd/azure-capacity-finder](https://github.com/surajssd/azure-capacity-finder) — *4 weeks ago*
-- [surajssd/libnotion](https://github.com/surajssd/libnotion) — *1 month ago*
+- [kaito-project/airunway](https://github.com/kaito-project/airunway) — *1 week ago*
 
 </td>
 </tr>
