@@ -30,10 +30,10 @@ CKA & CKS certified · Conference speaker · Open source contributor
 
 
 - [surajssd/dotfiles](https://github.com/surajssd/dotfiles) — *1 day ago*
-- [surajssd/llm-k8s](https://github.com/surajssd/llm-k8s) — *1 day ago*
-- [surajssd/libnotion](https://github.com/surajssd/libnotion) — *1 day ago*
-- [kaito-project/airunway](https://github.com/kaito-project/airunway) — *2 days ago*
-- [surajssd/blog_contents](https://github.com/surajssd/blog_contents) — *6 days ago*
+- [surajssd/llm-k8s](https://github.com/surajssd/llm-k8s) — *2 days ago*
+- [surajssd/libnotion](https://github.com/surajssd/libnotion) — *2 days ago*
+- [kaito-project/airunway](https://github.com/kaito-project/airunway) — *3 days ago*
+- [surajssd/blog_contents](https://github.com/surajssd/blog_contents) — *1 week ago*
 
 </td>
 </tr>
@@ -42,8 +42,8 @@ CKA & CKS certified · Conference speaker · Open source contributor
 #### 🔀 Recent Pull Requests
 
 
-- [feat: estimate inference throughput for models on cluster GPUs](https://github.com/kaito-project/airunway/pull/311) on [kaito-project/airunway](https://github.com/kaito-project/airunway) — *4 days ago*
-- [feat(dynamo): add CPU-only mocker mode for GPU-less E2E coverage](https://github.com/kaito-project/airunway/pull/307) on [kaito-project/airunway](https://github.com/kaito-project/airunway) — *6 days ago*
-- [feat(kaito): add `setup-kaito` target to install KAITO operator](https://github.com/kaito-project/airunway/pull/306) on [kaito-project/airunway](https://github.com/kaito-project/airunway) — *6 days ago*
+- [feat: estimate inference throughput for models on cluster GPUs](https://github.com/kaito-project/airunway/pull/311) on [kaito-project/airunway](https://github.com/kaito-project/airunway) — *5 days ago*
+- [feat(dynamo): add CPU-only mocker mode for GPU-less E2E coverage](https://github.com/kaito-project/airunway/pull/307) on [kaito-project/airunway](https://github.com/kaito-project/airunway) — *1 week ago*
+- [feat(kaito): add `setup-kaito` target to install KAITO operator](https://github.com/kaito-project/airunway/pull/306) on [kaito-project/airunway](https://github.com/kaito-project/airunway) — *1 week ago*
 - [feat(gateway): add provider-agnostic `setup-gateway` target](https://github.com/kaito-project/airunway/pull/305) on [kaito-project/airunway](https://github.com/kaito-project/airunway) — *1 week ago*
 - [refactor: Centralize upstream versions](https://github.com/kaito-project/airunway/pull/281) on [kaito-project/airunway](https://github.com/kaito-project/airunway) — *3 weeks ago*
