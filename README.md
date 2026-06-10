@@ -29,11 +29,11 @@ CKA & CKS certified · Conference speaker · Open source contributor
 #### 🔨 Recent Contributions
 
 
-- [surajssd/llm-k8s](https://github.com/surajssd/llm-k8s) — *1 day ago*
-- [surajssd/blog_contents](https://github.com/surajssd/blog_contents) — *1 day ago*
-- [surajssd/surajssd.github.io](https://github.com/surajssd/surajssd.github.io) — *1 day ago*
-- [kaito-project/airunway](https://github.com/kaito-project/airunway) — *1 day ago*
-- [surajssd/dotfiles](https://github.com/surajssd/dotfiles) — *2 days ago*
+- [surajssd/dotfiles](https://github.com/surajssd/dotfiles) — *1 day ago*
+- [surajssd/llm-k8s](https://github.com/surajssd/llm-k8s) — *2 days ago*
+- [surajssd/blog_contents](https://github.com/surajssd/blog_contents) — *2 days ago*
+- [surajssd/surajssd.github.io](https://github.com/surajssd/surajssd.github.io) — *2 days ago*
+- [kaito-project/airunway](https://github.com/kaito-project/airunway) — *2 days ago*
 
 </td>
 </tr>
@@ -42,8 +42,8 @@ CKA & CKS certified · Conference speaker · Open source contributor
 #### 🔀 Recent Pull Requests
 
 
-- [build(lint): add ESLint flat configs for both workspaces](https://github.com/kaito-project/airunway/pull/320) on [kaito-project/airunway](https://github.com/kaito-project/airunway) — *1 day ago*
-- [fix(backend): honour kubeconfig CA under Bun&#39;s native fetch](https://github.com/kaito-project/airunway/pull/319) on [kaito-project/airunway](https://github.com/kaito-project/airunway) — *1 day ago*
-- [test(e2e): enforce rebuild-revision parity across GPU OS variants](https://github.com/Azure/AgentBaker/pull/8660) on [Azure/AgentBaker](https://github.com/Azure/AgentBaker) — *1 day ago*
-- [feat: estimate inference throughput for models on cluster GPUs](https://github.com/kaito-project/airunway/pull/311) on [kaito-project/airunway](https://github.com/kaito-project/airunway) — *6 days ago*
-- [feat(dynamo): add CPU-only mocker mode for GPU-less E2E coverage](https://github.com/kaito-project/airunway/pull/307) on [kaito-project/airunway](https://github.com/kaito-project/airunway) — *1 week ago*
+- [fix(kaito): detect KAITO installed via AKS AI-toolchain add-on](https://github.com/kaito-project/airunway/pull/322) on [kaito-project/airunway](https://github.com/kaito-project/airunway) — *1 day ago*
+- [build(lint): add ESLint flat configs for both workspaces](https://github.com/kaito-project/airunway/pull/320) on [kaito-project/airunway](https://github.com/kaito-project/airunway) — *2 days ago*
+- [fix(backend): honour kubeconfig CA under Bun&#39;s native fetch](https://github.com/kaito-project/airunway/pull/319) on [kaito-project/airunway](https://github.com/kaito-project/airunway) — *2 days ago*
+- [test(e2e): enforce rebuild-revision parity across GPU OS variants](https://github.com/Azure/AgentBaker/pull/8660) on [Azure/AgentBaker](https://github.com/Azure/AgentBaker) — *2 days ago*
+- [feat: estimate inference throughput for models on cluster GPUs](https://github.com/kaito-project/airunway/pull/311) on [kaito-project/airunway](https://github.com/kaito-project/airunway) — *1 week ago*
