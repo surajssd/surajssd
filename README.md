@@ -30,8 +30,8 @@ CKA & CKS certified · Conference speaker · Open source contributor
 
 
 - [surajssd/dotfiles](https://github.com/surajssd/dotfiles) — *1 day ago*
-- [surajssd/llm-k8s](https://github.com/surajssd/llm-k8s) — *1 day ago*
-- [kaito-project/airunway](https://github.com/kaito-project/airunway) — *1 day ago*
+- [surajssd/llm-k8s](https://github.com/surajssd/llm-k8s) — *2 days ago*
+- [kaito-project/airunway](https://github.com/kaito-project/airunway) — *2 days ago*
 - [surajssd/blog_contents](https://github.com/surajssd/blog_contents) — *1 week ago*
 - [surajssd/surajssd.github.io](https://github.com/surajssd/surajssd.github.io) — *1 week ago*
 
@@ -42,8 +42,8 @@ CKA & CKS certified · Conference speaker · Open source contributor
 #### 🔀 Recent Pull Requests
 
 
-- [feat(plan-multi-agent-review): add plan-file multi-agent review skill](https://github.com/surajssd/dotfiles/pull/24) on [surajssd/dotfiles](https://github.com/surajssd/dotfiles) — *1 day ago*
-- [fix(pr-multi-agent-review): send prompts via stdin, widen context](https://github.com/surajssd/dotfiles/pull/22) on [surajssd/dotfiles](https://github.com/surajssd/dotfiles) — *4 days ago*
-- [feat(pr-multi-agent-review): add multi-agent PR review skill](https://github.com/surajssd/dotfiles/pull/20) on [surajssd/dotfiles](https://github.com/surajssd/dotfiles) — *5 days ago*
+- [feat(multi-agent-review): add per-reviewer reasoning-effort control](https://github.com/surajssd/dotfiles/pull/27) on [surajssd/dotfiles](https://github.com/surajssd/dotfiles) — *1 day ago*
+- [feat(plan-multi-agent-review): add plan-file multi-agent review skill](https://github.com/surajssd/dotfiles/pull/24) on [surajssd/dotfiles](https://github.com/surajssd/dotfiles) — *2 days ago*
+- [fix(pr-multi-agent-review): send prompts via stdin, widen context](https://github.com/surajssd/dotfiles/pull/22) on [surajssd/dotfiles](https://github.com/surajssd/dotfiles) — *5 days ago*
+- [feat(pr-multi-agent-review): add multi-agent PR review skill](https://github.com/surajssd/dotfiles/pull/20) on [surajssd/dotfiles](https://github.com/surajssd/dotfiles) — *6 days ago*
 - [fix(kaito): detect KAITO installed via AKS AI-toolchain add-on](https://github.com/kaito-project/airunway/pull/322) on [kaito-project/airunway](https://github.com/kaito-project/airunway) — *1 week ago*
-- [build(lint): add ESLint flat configs for both workspaces](https://github.com/kaito-project/airunway/pull/320) on [kaito-project/airunway](https://github.com/kaito-project/airunway) — *1 week ago*
