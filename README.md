@@ -29,11 +29,11 @@ CKA & CKS certified · Conference speaker · Open source contributor
 #### 🔨 Recent Contributions
 
 
-- [surajssd/blog_contents](https://github.com/surajssd/blog_contents) — *1 day ago*
-- [surajssd/surajssd.github.io](https://github.com/surajssd/surajssd.github.io) — *1 day ago*
-- [kaito-project/airunway](https://github.com/kaito-project/airunway) — *1 day ago*
-- [surajssd/dotfiles](https://github.com/surajssd/dotfiles) — *2 days ago*
-- [surajssd/llm-k8s](https://github.com/surajssd/llm-k8s) — *3 days ago*
+- [surajssd/dotfiles](https://github.com/surajssd/dotfiles) — *1 day ago*
+- [surajssd/llm-k8s](https://github.com/surajssd/llm-k8s) — *1 day ago*
+- [surajssd/libnotion](https://github.com/surajssd/libnotion) — *1 day ago*
+- [surajssd/blog_contents](https://github.com/surajssd/blog_contents) — *2 days ago*
+- [surajssd/surajssd.github.io](https://github.com/surajssd/surajssd.github.io) — *2 days ago*
 
 </td>
 </tr>
@@ -42,8 +42,8 @@ CKA & CKS certified · Conference speaker · Open source contributor
 #### 🔀 Recent Pull Requests
 
 
-- [feat(multi-agent-review): add per-reviewer reasoning-effort control](https://github.com/surajssd/dotfiles/pull/27) on [surajssd/dotfiles](https://github.com/surajssd/dotfiles) — *2 days ago*
-- [feat(plan-multi-agent-review): add plan-file multi-agent review skill](https://github.com/surajssd/dotfiles/pull/24) on [surajssd/dotfiles](https://github.com/surajssd/dotfiles) — *3 days ago*
-- [fix(pr-multi-agent-review): send prompts via stdin, widen context](https://github.com/surajssd/dotfiles/pull/22) on [surajssd/dotfiles](https://github.com/surajssd/dotfiles) — *6 days ago*
-- [feat(pr-multi-agent-review): add multi-agent PR review skill](https://github.com/surajssd/dotfiles/pull/20) on [surajssd/dotfiles](https://github.com/surajssd/dotfiles) — *1 week ago*
-- [fix(kaito): detect KAITO installed via AKS AI-toolchain add-on](https://github.com/kaito-project/airunway/pull/322) on [kaito-project/airunway](https://github.com/kaito-project/airunway) — *1 week ago*
+- [fix(setup-infra): add `--timeout 10m` to kube-prometheus helm install](https://github.com/Azure/aks-rdma-infiniband/pull/165) on [Azure/aks-rdma-infiniband](https://github.com/Azure/aks-rdma-infiniband) — *1 day ago*
+- [fix(wtpr): resolve fork-PR worktrees to their PR natively](https://github.com/surajssd/dotfiles/pull/32) on [surajssd/dotfiles](https://github.com/surajssd/dotfiles) — *1 day ago*
+- [feat(update): run `make update` in dotfiles repo](https://github.com/surajssd/dotfiles/pull/31) on [surajssd/dotfiles](https://github.com/surajssd/dotfiles) — *1 day ago*
+- [feat(pr-review-dashboard): resolve merged/closed PRs in worktrees](https://github.com/surajssd/dotfiles/pull/29) on [surajssd/dotfiles](https://github.com/surajssd/dotfiles) — *1 day ago*
+- [feat(multi-agent-review): add per-reviewer reasoning-effort control](https://github.com/surajssd/dotfiles/pull/27) on [surajssd/dotfiles](https://github.com/surajssd/dotfiles) — *3 days ago*
