@@ -29,11 +29,11 @@ CKA & CKS certified · Conference speaker · Open source contributor
 #### 🔨 Recent Contributions
 
 
-- [surajssd/dotfiles](https://github.com/surajssd/dotfiles) — *5 days ago*
-- [surajssd/llm-k8s](https://github.com/surajssd/llm-k8s) — *5 days ago*
-- [surajssd/libnotion](https://github.com/surajssd/libnotion) — *5 days ago*
-- [surajssd/blog_contents](https://github.com/surajssd/blog_contents) — *6 days ago*
-- [surajssd/surajssd.github.io](https://github.com/surajssd/surajssd.github.io) — *6 days ago*
+- [surajssd/dotfiles](https://github.com/surajssd/dotfiles) — *1 day ago*
+- [surajssd/llm-k8s](https://github.com/surajssd/llm-k8s) — *6 days ago*
+- [surajssd/libnotion](https://github.com/surajssd/libnotion) — *6 days ago*
+- [surajssd/blog_contents](https://github.com/surajssd/blog_contents) — *1 week ago*
+- [surajssd/surajssd.github.io](https://github.com/surajssd/surajssd.github.io) — *1 week ago*
 
 </td>
 </tr>
@@ -42,8 +42,8 @@ CKA & CKS certified · Conference speaker · Open source contributor
 #### 🔀 Recent Pull Requests
 
 
-- [fix(setup-infra): add `--timeout 10m` to kube-prometheus helm install](https://github.com/Azure/aks-rdma-infiniband/pull/165) on [Azure/aks-rdma-infiniband](https://github.com/Azure/aks-rdma-infiniband) — *5 days ago*
-- [fix(wtpr): resolve fork-PR worktrees to their PR natively](https://github.com/surajssd/dotfiles/pull/32) on [surajssd/dotfiles](https://github.com/surajssd/dotfiles) — *5 days ago*
-- [feat(update): run `make update` in dotfiles repo](https://github.com/surajssd/dotfiles/pull/31) on [surajssd/dotfiles](https://github.com/surajssd/dotfiles) — *5 days ago*
-- [feat(pr-review-dashboard): resolve merged/closed PRs in worktrees](https://github.com/surajssd/dotfiles/pull/29) on [surajssd/dotfiles](https://github.com/surajssd/dotfiles) — *5 days ago*
-- [feat(multi-agent-review): add per-reviewer reasoning-effort control](https://github.com/surajssd/dotfiles/pull/27) on [surajssd/dotfiles](https://github.com/surajssd/dotfiles) — *1 week ago*
+- [test(e2e): add GPU end-to-end suite for dynamo, vllm, kaito](https://github.com/kaito-project/airunway/pull/330) on [kaito-project/airunway](https://github.com/kaito-project/airunway) — *1 day ago*
+- [fix(update): pass `--yes` to `brew upgrade` to avoid blocking prompt](https://github.com/surajssd/dotfiles/pull/35) on [surajssd/dotfiles](https://github.com/surajssd/dotfiles) — *1 day ago*
+- [fix(setup-infra): add `--timeout 10m` to kube-prometheus helm install](https://github.com/Azure/aks-rdma-infiniband/pull/165) on [Azure/aks-rdma-infiniband](https://github.com/Azure/aks-rdma-infiniband) — *6 days ago*
+- [fix(wtpr): resolve fork-PR worktrees to their PR natively](https://github.com/surajssd/dotfiles/pull/32) on [surajssd/dotfiles](https://github.com/surajssd/dotfiles) — *6 days ago*
+- [feat(update): run `make update` in dotfiles repo](https://github.com/surajssd/dotfiles/pull/31) on [surajssd/dotfiles](https://github.com/surajssd/dotfiles) — *6 days ago*
