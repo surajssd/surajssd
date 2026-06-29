@@ -29,10 +29,10 @@ CKA & CKS certified · Conference speaker · Open source contributor
 #### 🔨 Recent Contributions
 
 
-- [surajssd/dotfiles](https://github.com/surajssd/dotfiles) — *2 days ago*
-- [surajssd/blog_contents](https://github.com/surajssd/blog_contents) — *2 days ago*
-- [surajssd/surajssd.github.io](https://github.com/surajssd/surajssd.github.io) — *2 days ago*
-- [kaito-project/airunway](https://github.com/kaito-project/airunway) — *2 days ago*
+- [kaito-project/airunway](https://github.com/kaito-project/airunway) — *1 day ago*
+- [surajssd/dotfiles](https://github.com/surajssd/dotfiles) — *3 days ago*
+- [surajssd/blog_contents](https://github.com/surajssd/blog_contents) — *3 days ago*
+- [surajssd/surajssd.github.io](https://github.com/surajssd/surajssd.github.io) — *3 days ago*
 - [surajssd/llm-k8s](https://github.com/surajssd/llm-k8s) — *1 week ago*
 
 </td>
@@ -42,8 +42,8 @@ CKA & CKS certified · Conference speaker · Open source contributor
 #### 🔀 Recent Pull Requests
 
 
-- [docs(blog): add post on streaming vLLM weights from Azure Blob Storage](https://github.com/Azure/AKS/pull/5845) on [Azure/AKS](https://github.com/Azure/AKS) — *2 days ago*
-- [fix(providers): inject shim version at build time](https://github.com/kaito-project/airunway/pull/338) on [kaito-project/airunway](https://github.com/kaito-project/airunway) — *2 days ago*
-- [test(e2e): add GPU end-to-end suite for dynamo, vllm, kaito](https://github.com/kaito-project/airunway/pull/330) on [kaito-project/airunway](https://github.com/kaito-project/airunway) — *5 days ago*
-- [fix(update): pass `--yes` to `brew upgrade` to avoid blocking prompt](https://github.com/surajssd/dotfiles/pull/35) on [surajssd/dotfiles](https://github.com/surajssd/dotfiles) — *5 days ago*
+- [docs(blog): add post on streaming vLLM weights from Azure Blob Storage](https://github.com/Azure/AKS/pull/5845) on [Azure/AKS](https://github.com/Azure/AKS) — *3 days ago*
+- [fix(providers): inject shim version at build time](https://github.com/kaito-project/airunway/pull/338) on [kaito-project/airunway](https://github.com/kaito-project/airunway) — *3 days ago*
+- [test(e2e): add GPU end-to-end suite for dynamo, vllm, kaito](https://github.com/kaito-project/airunway/pull/330) on [kaito-project/airunway](https://github.com/kaito-project/airunway) — *6 days ago*
+- [fix(update): pass `--yes` to `brew upgrade` to avoid blocking prompt](https://github.com/surajssd/dotfiles/pull/35) on [surajssd/dotfiles](https://github.com/surajssd/dotfiles) — *6 days ago*
 - [fix(setup-infra): add `--timeout 10m` to kube-prometheus helm install](https://github.com/Azure/aks-rdma-infiniband/pull/165) on [Azure/aks-rdma-infiniband](https://github.com/Azure/aks-rdma-infiniband) — *1 week ago*
