@@ -29,11 +29,11 @@ CKA & CKS certified · Conference speaker · Open source contributor
 #### 🔨 Recent Contributions
 
 
-- [surajssd/dotfiles](https://github.com/surajssd/dotfiles) — *3 days ago*
-- [surajssd/llm-k8s](https://github.com/surajssd/llm-k8s) — *4 days ago*
-- [ai-runway/airunway](https://github.com/ai-runway/airunway) — *4 days ago*
-- [surajssd/blog_contents](https://github.com/surajssd/blog_contents) — *5 days ago*
-- [surajssd/surajssd.github.io](https://github.com/surajssd/surajssd.github.io) — *5 days ago*
+- [surajssd/dotfiles](https://github.com/surajssd/dotfiles) — *4 days ago*
+- [surajssd/llm-k8s](https://github.com/surajssd/llm-k8s) — *5 days ago*
+- [ai-runway/airunway](https://github.com/ai-runway/airunway) — *5 days ago*
+- [surajssd/blog_contents](https://github.com/surajssd/blog_contents) — *6 days ago*
+- [surajssd/surajssd.github.io](https://github.com/surajssd/surajssd.github.io) — *6 days ago*
 
 </td>
 </tr>
@@ -42,7 +42,7 @@ CKA & CKS certified · Conference speaker · Open source contributor
 #### 🔀 Recent Pull Requests
 
 
-- [MAINTAINERS: Update employer information](https://github.com/ai-runway/airunway/pull/407) on [ai-runway/airunway](https://github.com/ai-runway/airunway) — *4 days ago*
+- [MAINTAINERS: Update employer information](https://github.com/ai-runway/airunway/pull/407) on [ai-runway/airunway](https://github.com/ai-runway/airunway) — *5 days ago*
 - [fix(metrics): handle missing CPU sequence lengths](https://github.com/sgl-project/sglang/pull/36387) on [sgl-project/sglang](https://github.com/sgl-project/sglang) — *1 week ago*
 - [feat(vllm-tensorizer): Bump DeepGEMM to a6b593d2 for SM12x attention kernels](https://github.com/coreweave/ml-containers/pull/202) on [coreweave/ml-containers](https://github.com/coreweave/ml-containers) — *1 month ago*
 - [fix(renderer): honor tool_choice=none and full reasoning_effort range in DeepSeek native formatters](https://github.com/ai-dynamo/frontend-crates/pull/148) on [ai-dynamo/frontend-crates](https://github.com/ai-dynamo/frontend-crates) — *1 month ago*
