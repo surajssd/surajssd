@@ -29,9 +29,9 @@ CKA & CKS certified · Conference speaker · Open source contributor
 #### 🔨 Recent Contributions
 
 
-- [surajssd/dotfiles](https://github.com/surajssd/dotfiles) — *5 days ago*
-- [surajssd/llm-k8s](https://github.com/surajssd/llm-k8s) — *6 days ago*
-- [ai-runway/airunway](https://github.com/ai-runway/airunway) — *6 days ago*
+- [surajssd/dotfiles](https://github.com/surajssd/dotfiles) — *6 days ago*
+- [surajssd/llm-k8s](https://github.com/surajssd/llm-k8s) — *1 week ago*
+- [ai-runway/airunway](https://github.com/ai-runway/airunway) — *1 week ago*
 - [surajssd/blog_contents](https://github.com/surajssd/blog_contents) — *1 week ago*
 - [surajssd/surajssd.github.io](https://github.com/surajssd/surajssd.github.io) — *1 week ago*
 
@@ -42,8 +42,8 @@ CKA & CKS certified · Conference speaker · Open source contributor
 #### 🔀 Recent Pull Requests
 
 
-- [MAINTAINERS: Update employer information](https://github.com/ai-runway/airunway/pull/407) on [ai-runway/airunway](https://github.com/ai-runway/airunway) — *6 days ago*
-- [fix(metrics): handle missing CPU sequence lengths](https://github.com/sgl-project/sglang/pull/36387) on [sgl-project/sglang](https://github.com/sgl-project/sglang) — *1 week ago*
+- [MAINTAINERS: Update employer information](https://github.com/ai-runway/airunway/pull/407) on [ai-runway/airunway](https://github.com/ai-runway/airunway) — *1 week ago*
+- [fix(metrics): handle missing CPU sequence lengths](https://github.com/sgl-project/sglang/pull/36387) on [sgl-project/sglang](https://github.com/sgl-project/sglang) — *2 weeks ago*
 - [feat(vllm-tensorizer): Bump DeepGEMM to a6b593d2 for SM12x attention kernels](https://github.com/coreweave/ml-containers/pull/202) on [coreweave/ml-containers](https://github.com/coreweave/ml-containers) — *1 month ago*
 - [fix(renderer): honor tool_choice=none and full reasoning_effort range in DeepSeek native formatters](https://github.com/ai-dynamo/frontend-crates/pull/148) on [ai-dynamo/frontend-crates](https://github.com/ai-dynamo/frontend-crates) — *1 month ago*
 - [fix: DeepSeek-V4 serving fixes, streaming 4xx, deployment default_thinking](https://github.com/ai-dynamo/dynamo/pull/12219) on [ai-dynamo/dynamo](https://github.com/ai-dynamo/dynamo) — *1 month ago*
