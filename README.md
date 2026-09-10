@@ -29,8 +29,8 @@ CKA & CKS certified · Conference speaker · Open source contributor
 #### 🔨 Recent Contributions
 
 
-- [surajssd/dotfiles](https://github.com/surajssd/dotfiles) — *1 week ago*
-- [surajssd/llm-k8s](https://github.com/surajssd/llm-k8s) — *1 week ago*
+- [surajssd/llm-k8s](https://github.com/surajssd/llm-k8s) — *1 day ago*
+- [surajssd/dotfiles](https://github.com/surajssd/dotfiles) — *1 day ago*
 - [ai-runway/airunway](https://github.com/ai-runway/airunway) — *1 week ago*
 - [surajssd/blog_contents](https://github.com/surajssd/blog_contents) — *1 week ago*
 - [surajssd/surajssd.github.io](https://github.com/surajssd/surajssd.github.io) — *1 week ago*
