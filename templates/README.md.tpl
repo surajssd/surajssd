@@ -1,6 +1,6 @@
 ### Hi, I'm Suraj 👋
 
-Principal Software Engineer at Microsoft, working on AI/ML infrastructure and Kubernetes.
+Senior Software Engineer at CoreWeave, working on Inference.
 CKA & CKS certified · Conference speaker · Open source contributor
 
 [![Blog](https://img.shields.io/badge/Blog-suraj.io-0d1117?style=flat&logo=hugo&logoColor=white)](https://suraj.io)
