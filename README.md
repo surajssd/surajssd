@@ -29,11 +29,11 @@ CKA & CKS certified · Conference speaker · Open source contributor
 #### 🔨 Recent Contributions
 
 
-- [ai-dynamo/dynamo](https://github.com/ai-dynamo/dynamo) — *today*
-- [surajssd/llm-k8s](https://github.com/surajssd/llm-k8s) — *today*
-- [surajssd/blog_contents](https://github.com/surajssd/blog_contents) — *today*
-- [surajssd/surajssd.github.io](https://github.com/surajssd/surajssd.github.io) — *today*
-- [surajssd/dotfiles](https://github.com/surajssd/dotfiles) — *today*
+- [ai-dynamo/dynamo](https://github.com/ai-dynamo/dynamo) — *1 day ago*
+- [surajssd/llm-k8s](https://github.com/surajssd/llm-k8s) — *1 day ago*
+- [surajssd/blog_contents](https://github.com/surajssd/blog_contents) — *1 day ago*
+- [surajssd/surajssd.github.io](https://github.com/surajssd/surajssd.github.io) — *1 day ago*
+- [surajssd/dotfiles](https://github.com/surajssd/dotfiles) — *1 day ago*
 
 </td>
 </tr>
@@ -42,8 +42,8 @@ CKA & CKS certified · Conference speaker · Open source contributor
 #### 🔀 Recent Pull Requests
 
 
-- [fix(operator): allow frontend dependency startup waits](https://github.com/ai-dynamo/dynamo/pull/15581) on [ai-dynamo/dynamo](https://github.com/ai-dynamo/dynamo) — *3 days ago*
+- [fix(operator): allow frontend dependency startup waits](https://github.com/ai-dynamo/dynamo/pull/15581) on [ai-dynamo/dynamo](https://github.com/ai-dynamo/dynamo) — *4 days ago*
 - [fix(runtime): retry NATS connections during startup](https://github.com/ai-dynamo/dynamo/pull/15269) on [ai-dynamo/dynamo](https://github.com/ai-dynamo/dynamo) — *1 week ago*
 - [feat(kv-router): preserve shared-cache event eligibility](https://github.com/ai-dynamo/dynamo/pull/15260) on [ai-dynamo/dynamo](https://github.com/ai-dynamo/dynamo) — *1 week ago*
 - [fix(kv-router): break request-lease observer ownership cycle](https://github.com/ai-dynamo/dynamo/pull/15258) on [ai-dynamo/dynamo](https://github.com/ai-dynamo/dynamo) — *1 week ago*
-- [fix(frontend): validate explicitly strict function-tool schemas](https://github.com/ai-dynamo/dynamo/pull/15153) on [ai-dynamo/dynamo](https://github.com/ai-dynamo/dynamo) — *1 week ago*
+- [fix(frontend): validate explicitly strict function-tool schemas](https://github.com/ai-dynamo/dynamo/pull/15153) on [ai-dynamo/dynamo](https://github.com/ai-dynamo/dynamo) — *2 weeks ago*
