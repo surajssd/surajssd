@@ -29,8 +29,8 @@ CKA & CKS certified · Conference speaker · Open source contributor
 #### 🔨 Recent Contributions
 
 
-- [surajssd/dotfiles](https://github.com/surajssd/dotfiles) — *2 days ago*
-- [surajssd/llm-k8s](https://github.com/surajssd/llm-k8s) — *5 days ago*
+- [surajssd/dotfiles](https://github.com/surajssd/dotfiles) — *3 days ago*
+- [surajssd/llm-k8s](https://github.com/surajssd/llm-k8s) — *6 days ago*
 - [ai-dynamo/dynamo](https://github.com/ai-dynamo/dynamo) — *1 week ago*
 - [surajssd/surajssd.github.io](https://github.com/surajssd/surajssd.github.io) — *2 weeks ago*
 - [surajssd/blog_contents](https://github.com/surajssd/blog_contents) — *2 weeks ago*
@@ -45,5 +45,5 @@ CKA & CKS certified · Conference speaker · Open source contributor
 - [feat(kv-router): preserve opt-in dump eligibility (2c)](https://github.com/ai-dynamo/dynamo/pull/16432) on [ai-dynamo/dynamo](https://github.com/ai-dynamo/dynamo) — *1 week ago*
 - [feat(kv-router): classify shared-cache event eligibility (2b)](https://github.com/ai-dynamo/dynamo/pull/16431) on [ai-dynamo/dynamo](https://github.com/ai-dynamo/dynamo) — *1 week ago*
 - [fix(operator): allow frontend startup waits and validate probes](https://github.com/ai-dynamo/dynamo/pull/15581) on [ai-dynamo/dynamo](https://github.com/ai-dynamo/dynamo) — *3 weeks ago*
-- [fix(runtime): retry NATS connections during startup](https://github.com/ai-dynamo/dynamo/pull/15269) on [ai-dynamo/dynamo](https://github.com/ai-dynamo/dynamo) — *4 weeks ago*
+- [fix(runtime): retry NATS connections during startup](https://github.com/ai-dynamo/dynamo/pull/15269) on [ai-dynamo/dynamo](https://github.com/ai-dynamo/dynamo) — *1 month ago*
 - [feat(kv-router): carry shared-cache eligibility in events](https://github.com/ai-dynamo/dynamo/pull/15260) on [ai-dynamo/dynamo](https://github.com/ai-dynamo/dynamo) — *1 month ago*
