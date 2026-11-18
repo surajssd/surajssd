@@ -29,10 +29,10 @@ CKA & CKS certified · Conference speaker · Open source contributor
 #### 🔨 Recent Contributions
 
 
-- [surajssd/dotfiles](https://github.com/surajssd/dotfiles) — *today*
-- [surajssd/kubecon-na26-tutorial](https://github.com/surajssd/kubecon-na26-tutorial) — *6 days ago*
-- [surajssd/blog_contents](https://github.com/surajssd/blog_contents) — *6 days ago*
-- [surajssd/surajssd.github.io](https://github.com/surajssd/surajssd.github.io) — *6 days ago*
+- [surajssd/dotfiles](https://github.com/surajssd/dotfiles) — *1 day ago*
+- [surajssd/surajssd.github.io](https://github.com/surajssd/surajssd.github.io) — *1 week ago*
+- [surajssd/blog_contents](https://github.com/surajssd/blog_contents) — *1 week ago*
+- [surajssd/kubecon-na26-tutorial](https://github.com/surajssd/kubecon-na26-tutorial) — *1 week ago*
 - [surajssd/llm-k8s](https://github.com/surajssd/llm-k8s) — *3 weeks ago*
 
 </td>
@@ -42,7 +42,7 @@ CKA & CKS certified · Conference speaker · Open source contributor
 #### 🔀 Recent Pull Requests
 
 
-- [fix(multimodal): preserve image pixel limit errors](https://github.com/ai-dynamo/dynamo/pull/18923) on [ai-dynamo/dynamo](https://github.com/ai-dynamo/dynamo) — *today*
+- [fix(multimodal): preserve image pixel limit errors](https://github.com/ai-dynamo/dynamo/pull/18923) on [ai-dynamo/dynamo](https://github.com/ai-dynamo/dynamo) — *1 day ago*
 - [feat(kv-router): preserve opt-in dump eligibility (2c)](https://github.com/ai-dynamo/dynamo/pull/16432) on [ai-dynamo/dynamo](https://github.com/ai-dynamo/dynamo) — *1 month ago*
 - [feat(kv-router): classify shared-cache event eligibility (2b)](https://github.com/ai-dynamo/dynamo/pull/16431) on [ai-dynamo/dynamo](https://github.com/ai-dynamo/dynamo) — *1 month ago*
 - [fix(operator): allow frontend startup waits and validate probes](https://github.com/ai-dynamo/dynamo/pull/15581) on [ai-dynamo/dynamo](https://github.com/ai-dynamo/dynamo) — *1 month ago*
