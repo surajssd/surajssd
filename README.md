@@ -29,10 +29,10 @@ CKA & CKS certified · Conference speaker · Open source contributor
 #### 🔨 Recent Contributions
 
 
-- [ai-dynamo/frontend-crates](https://github.com/ai-dynamo/frontend-crates) — *2 days ago*
-- [surajssd/dotfiles](https://github.com/surajssd/dotfiles) — *2 days ago*
-- [surajssd/surajssd.github.io](https://github.com/surajssd/surajssd.github.io) — *4 days ago*
-- [surajssd/blog_contents](https://github.com/surajssd/blog_contents) — *4 days ago*
+- [ai-dynamo/frontend-crates](https://github.com/ai-dynamo/frontend-crates) — *3 days ago*
+- [surajssd/dotfiles](https://github.com/surajssd/dotfiles) — *3 days ago*
+- [surajssd/surajssd.github.io](https://github.com/surajssd/surajssd.github.io) — *5 days ago*
+- [surajssd/blog_contents](https://github.com/surajssd/blog_contents) — *5 days ago*
 - [ai-dynamo/dynamo](https://github.com/ai-dynamo/dynamo) — *1 week ago*
 
 </td>
@@ -42,7 +42,7 @@ CKA & CKS certified · Conference speaker · Open source contributor
 #### 🔀 Recent Pull Requests
 
 
-- [feat(renderer): make default thinking effort instructions optional (DIS-3576)](https://github.com/ai-dynamo/frontend-crates/pull/668) on [ai-dynamo/frontend-crates](https://github.com/ai-dynamo/frontend-crates) — *2 days ago*
+- [feat(renderer): make default thinking effort instructions optional (DIS-3576)](https://github.com/ai-dynamo/frontend-crates/pull/668) on [ai-dynamo/frontend-crates](https://github.com/ai-dynamo/frontend-crates) — *3 days ago*
 - [fix(multimodal): preserve image pixel limit errors](https://github.com/ai-dynamo/dynamo/pull/18923) on [ai-dynamo/dynamo](https://github.com/ai-dynamo/dynamo) — *1 week ago*
 - [feat(kv-router): preserve opt-in dump eligibility (2c)](https://github.com/ai-dynamo/dynamo/pull/16432) on [ai-dynamo/dynamo](https://github.com/ai-dynamo/dynamo) — *1 month ago*
 - [feat(kv-router): classify shared-cache event eligibility (2b)](https://github.com/ai-dynamo/dynamo/pull/16431) on [ai-dynamo/dynamo](https://github.com/ai-dynamo/dynamo) — *1 month ago*
